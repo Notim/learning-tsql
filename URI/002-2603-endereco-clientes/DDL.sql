@@ -7,4 +7,4 @@ CREATE TABLE URI2603.customers (
   city CHARACTER VARYING (255),
   state CHAR (2),
   credit_limit NUMERIC
-);
+)
