@@ -1,0 +1,3 @@
+SELECT CT.name
+FROM URI2602.customers AS CT
+WHERE CT.state LIKE '%RS%'
